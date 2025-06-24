@@ -7,12 +7,6 @@ China: gl5, mbt_3000, type_62, type_63, type_63a, type_74, type_80, type_90, typ
 Iran: karrar, sabalan, tosan, zulfiqar_1, zulfiqar_2, zulfiqar_3
 
 
-Pakistan: al_khalid
-
-
-Japan: tk_10
-
-
 North Korea: m1985, m2002, st2, unidentified
 
 
