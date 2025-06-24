@@ -1,3 +1,7 @@
+data for classifier
+
+---
+
 Russia: armata, bmpt, bmpt_72, bmt_72, bmpt_84, drozd, pt76, sprut_sd, sprut_sdm1, t12, t55, t55_enigma, t62, t64, t64b1m, t64bm_bulat, t64e, t72, t72b3, t72b4, t72m2, t72m4, t72ua1, t80, t80b, t80bvm, t80u, t80ud, t80um1, t84, t84_yatagan, t90, t90m, t90m_tagil, t95
 
 
