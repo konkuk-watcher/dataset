@@ -31,5 +31,19 @@ South Korea: k1, k1a1, k2, k21_105, k21_with_xc8
 | 6      | **MLRS (다연장 로켓)** | 대량 로켓 발사 시스템    | PHL-16, PHL-03, PHL-11          |
 | 7      | **SPG (자주포)**     | 자주포탑/차량  | PLZ-05, PCL-181, PLZ-07, PLL-09, PCL-171, PCL-09, PLZ-89, PPZ-10, PLL-05          |
 | 8      | **Towned Gun (견인포)** | 견인포 | Type-66, Type-59, Type-96   |
-| 9      | **SAM (견인포)** | 견인포 | HQ-16, HQ-17, HQ-7   |
+| 9      | **SAM** | 견인포 | HQ-16, HQ-17, HQ-7   |
 | 10      | **Others (기타)**   | 군용 트럭, 레이더 등 기타 | Ural-375, Dongfeng EQ |
+---
+데이터셋 구조 수정
+
+시각적으로 유사한 클래스들을 묶어서 정확성을 올림
+
+| 클래스 번호 | 클래스명              | 설명              | 예시 장비                 |
+| ------ | ----------------- | --------------- | --------------------- |
+| 1      | **Tank**    | 주력전차+경전차       | ZTZ-99A, ZTZ-99, ZTZ-96A, ZTZ-96, ZTZ-88, ZTQ-15, ZTQ-05 |
+| 2      | **Armored Vehicle**   | 장갑차계열(IFV, AAV, APC)      | ZBD-04, ZBL-08, ZTL-11, BMP-1, ZSL-92, ZBD-05, ZSL-92B, ZSD-89, ZSL-10, ZSL-92A         |
+| 3      | **MLRS** | 대량 로켓 발사 시스템    | PHL-16, PHL-03, PHL-11          |
+| 4      | **SPG**     | 자주포탑/차량  | PLZ-05, PCL-181, PLZ-07, PLL-09, PCL-171, PCL-09, PLZ-89, PPZ-10, PLL-05          |
+| 5      | **Towed Gun** | 견인포 | Type-66, Type-59, Type-96   |
+| 6      | **Air Defence System** | SAM+대공 | HQ-16, HQ-17, HQ-7, HQ-6, PGL-12, PGZ-09   |
+| 7      | **Others**   | 군용 트럭, 레이더 등 기타 | Ural-375, Dongfeng EQ |
