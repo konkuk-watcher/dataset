@@ -1,0 +1,13 @@
+train: dataset/coarse/images/train
+val: dataset/coarse/images/val
+
+nc: 7
+
+names: 
+  - Tank
+  - Armored_Vehicle
+  - MLRS
+  - SPG
+  - Towed_Gun
+  - Air_Defense_System
+  - Others
