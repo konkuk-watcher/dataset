@@ -1,5 +1,4 @@
-data for classifier
-
+coarse/fine 구분 -> coarse 쪽의 클래스 마다 데이터 갯수가 1000장이 넘어가서, github로 유지 불가능함. -> kaggle에서 데이터셋 구축 진행
 ---
 
 Russia: armata, bmpt, bmpt_72, bmt_72, bmpt_84, drozd, pt76, sprut_sd, sprut_sdm1, t12, t55, t55_enigma, t62, t64, t64b1m, t64bm_bulat, t64e, t72, t72b3, t72b4, t72m2, t72m4, t72ua1, t80, t80b, t80bvm, t80u, t80ud, t80um1, t84, t84_yatagan, t90, t90m, t90m_tagil, t95
